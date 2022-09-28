@@ -5,3 +5,5 @@ public class HelloJdk {
             System.out.println("Ура! Этот код работает!");
     }
 }
+
+// comment for commit
